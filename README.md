@@ -48,6 +48,10 @@ The objective of this project was to get visualization of the various analysis r
 •	Developed various visual for each report like Line chart, Map, Multi-row card, Clustered column chart and Slicer.
 
 
+![image](https://user-images.githubusercontent.com/118211443/205044964-c82f07e3-35ef-43ae-8f51-a0ae004253d7.png)
+
+
+
 
 
 
