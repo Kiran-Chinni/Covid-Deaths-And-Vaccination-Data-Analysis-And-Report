@@ -29,7 +29,7 @@ and so on using SQL queries in Microsoft SQL server management studio.
 
 
 
-**Project- A - Covid Deaths And Vaccination Data Report:**
+**Project- B - Covid Deaths And Vaccination Data Report:**
 
 The objective of this project was to get visualization of the various analysis report of Covid deaths. Various reports were created to analyse Global covid numbers (total cases, total deaths and percentage of global deaths), population affected by country and continent and highest percentage of population affected country wise.  
 
